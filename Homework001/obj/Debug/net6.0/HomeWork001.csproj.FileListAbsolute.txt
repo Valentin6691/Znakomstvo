@@ -1,0 +1,15 @@
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\bin\Debug\net6.0\HomeWork001.exe
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\bin\Debug\net6.0\HomeWork001.deps.json
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\bin\Debug\net6.0\HomeWork001.runtimeconfig.json
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\bin\Debug\net6.0\HomeWork001.dll
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\bin\Debug\net6.0\HomeWork001.pdb
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.csproj.AssemblyReference.cache
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.AssemblyInfoInputs.cache
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.AssemblyInfo.cs
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.dll
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\refint\HomeWork001.dll
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.pdb
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\HomeWork001.genruntimeconfig.cache
+C:\Users\ALFA\Desktop\Seminar\HomeWork001\obj\Debug\net6.0\ref\HomeWork001.dll
