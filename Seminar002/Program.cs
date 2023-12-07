@@ -8,8 +8,8 @@
         {
             int number2 = number / 10 % 10;
             int number3 = number % 10;
-            int result = number2;
-            while (number3 > 1)
+            int result = 1;
+            while (number3 >= 1)
             {
                 result = result * number2;
                 number3--;
